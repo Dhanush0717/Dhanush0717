@@ -15,7 +15,7 @@
 - 💡 Passionate about building intelligent solutions and seamless user experiences.
 - 📊 Specializing in AI/ML models, data-driven applications, and frontend integration with React.
 - 🌟 Open source advocate and lifelong learner.
-- 📫 Let's collaborate: [nanudhanush17@gmail.com]
+- 📫 Let's collaborate: [imdhanush17@gmail.com]
 
 
 <h3 align="left">Connect with me:</h3>
