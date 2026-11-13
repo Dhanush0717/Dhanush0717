@@ -3,7 +3,7 @@
 
 
                                   
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🚀 AI Engineer | React Enthusiast
+- 🚀 Full-Stack Developer
 - 💡 Passionate about building intelligent solutions and seamless user experiences.
 - 📊 Specializing in AI/ML models, data-driven applications, and frontend integration with React.
 - 🌟 Open source advocate and lifelong learner.
@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   
-  <a href="https://www.instagram.com/.m_a_y_u_r." target="_blank">
+  <a href="https://www.instagram.com/dhxnush17" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram Logo" />
 </a>
 
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail Logo" />
 </a>
 
- <a href="https://www.linkedin.com/in/mayur-r-021b35329/" target="_blank">
+ <a href="[https://www.linkedin.com/in/mayur-r-021b35329/](https://www.linkedin.com/in/dhanush-n-05785a352?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Logo" />
 </a>
 
