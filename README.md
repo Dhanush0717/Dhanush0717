@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail Logo" />
 </a>
 
- <a href="[https://www.linkedin.com/in/mayur-r-021b35329/](https://www.linkedin.com/in/dhanush-n-05785a352?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
+ <a href="www.linkedin.com/in/dhanush-n-05785a352" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Logo" />
 </a>
 
